@@ -4,12 +4,12 @@ Provide your contact information here. You can include your email, LinkedIn prof
 
 ## Email
 
-<your.email@example.com>
+[ntlal0e182@gmail.com](mailto:ntlal0e182@gmail.com)
 
 ## LinkedIn
 
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+[LinkedIn Profile](https://www.linkedin.com/in/teboho-ntlaloe-189387199/)
 
 ## GitHub
 
-[GitHub Profile](https://github.com/yourusername)
+[GitHub Profile](https://github.com/LordNtlaloe)

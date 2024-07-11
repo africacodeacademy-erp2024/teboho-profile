@@ -1,35 +1,41 @@
 # My Personal Bio
 
 ## About Me
-Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
+Hello! My name is Teboho. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
 
 ## Background
-- **Name:** [Your Full Name]
-- **Location:** [Your Location]
-- **Education:** [Your Education Background]
-- **Skills:** [List of Skills]
+- **Name:** Teboho Ntlaloe
+- **Location:** Maseru, Lesotho
+- **Education:** Graduate
+- **Skills:** APIs, Game Development, Web Development, CI/CD, Version Control
 
 ## Journey
 ### Early Life
-[Describe your early life and how you got interested in software development.]
+I grew playing arcade and console games. I played so many games that I eventually took interest in being 
+able to create my own. That is where my software engineering journey started. I looked some of the creators 
+behind my favourite games such as Tetris, Pacman, Doom, Metalgear Solid and others.
 
 ### Education and Career
-[Describe your education journey and any relevant work experience.]
+I enrolled at Botho University in 2017 and graduated in 2021. I have no professional career 
+in the form of having a full time job but I have done 
+some work freelancing, I have been able to publish 3 websites and one mobile app throughout my freelancing career.
 
 ### Goals
-[Outline your goals for the future and what you hope to achieve through this program.]
+My goal is to have job and work in an organization with other developers. Freelancing is great but it doesn't 
+have a great market. It's hard to get a client and even harder to retain one.
 
 ## Projects
 ### Project 1
-[Description of the first project]
+Created a mobile designed to teach kids the basics of the Sesotho Language starting with basic words, 
+vowels and consonents. 
 
 ### Project 2
-[Description of the second project]
+Create a travel booking application for a travel agency.
 
 ## Contact
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **GitHub:** [Your GitHub Profile]
+- **Email:** [ntlal0e182@gmail.com](mailto:ntlal0e182@gmail.com)
+- **LinkedIn:** [Teboho Ntlaloe](https://www.linkedin.com/in/teboho-ntlaloe-189387199/)
+- **GitHub:** [LordNtlaloe](https://github.com/LordNtlaloe)
 
 ---
 
@@ -41,5 +47,3 @@ Hello! My name is [Your Name]. I am a participant in the Africa Code Academy Eng
 - [Skills](skills.md)
 - [Projects](projects/index.md)
 - [Contact](contact.md)
-
-This is the main landing page for your profile. Customize it to introduce yourself and provide links to other sections.

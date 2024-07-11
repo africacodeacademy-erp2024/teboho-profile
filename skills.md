@@ -4,18 +4,19 @@ List your skills here. You can categorize them and provide examples of how you'v
 
 ## Programming Languages
 
-- Language 1
-- Language 2
-- Language 3
+- Pythom
+- React/Node/Typscript/Javascript
+- C++
 
 ## Frameworks and Libraries
 
-- Framework/Library 1
-- Framework/Library 2
-- Framework/Library 3
+- Django
+- React/NextJs
+- Laravel
 
 ## Tools and Technologies
 
-- Tool/Technology 1
-- Tool/Technology 2
-- Tool/Technology 3
+- Git/Github
+- Slack
+- Vercel
+- CircleCi

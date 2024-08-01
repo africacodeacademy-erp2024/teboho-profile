@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown Viewer</title>
+</head>
+<body>
+    <div id="content"></div>
+    <!-- Include the marked library -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script>
+        // Ensure the marked library is loaded
+        if (typeof marked !== 'undefined') {
+            // Fetch the Markdown file
+            fetch('index.md')
+                .then(response => response.text())
+                .then(text => {
+                    // Convert the Markdown text to HTML
+                    document.getElementById('content').innerHTML = marked.parse(text);
+                })
+                .catch(error => console.error('Error fetching the Markdown file:', error));
+        } else {
+            console.error('Marked library is not loaded.');
+        }
+    </script>
+</body>
+</html>

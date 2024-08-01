@@ -1,5 +1,7 @@
 # My Personal Bio
-![Profile Image](banner.png)
+<img src="banner.png" alt="Profile Image" width="100%">
+<br>
+
 ## About Me
 Hello! My name is Teboho. I am a participant in the Africa Code Academy Engineering Residency Program 2024.
 

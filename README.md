@@ -1,4 +1,4 @@
-# Personal Bio Page Template
+<!-- # Personal Bio Page Template
 
 This repository is a template for creating a personal profile page hosted on GitHub Pages. Fork this repository, customize the content, and enable GitHub Pages to showcase your skills and projects.
 
@@ -34,4 +34,4 @@ This repository is a template for creating a personal profile page hosted on Git
   - Unordered: `- Item 1`
   - Ordered:   `1. Item 1`
 - Links: `[title](https://www.example.com)`
-- Images: `![alt text](image.jpg)`
+- Images: `![alt text](image.jpg)` -->
